@@ -1,4 +1,4 @@
-##JavaScript Design Patterns
+## JavaScript Design Patterns
 
 - [Module](#module)
 - [Revealing Module](#revealing_module)
